@@ -1,15 +1,4 @@
-.boxes{
-    display: flex;
-    justify-content:space-between;
-    flex-wrap: wrap;
-}
-.box{
-    width: 30%;
-}
-img{
-    max-width: 100%;
-    height: auto;
-}
-img:hover{
-    max-width: 50%;
+.footer {
+    background-color: red;
+    color: green;
 }
